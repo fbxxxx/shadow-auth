@@ -24,4 +24,4 @@ while True:
 			print('\033[1;31m'+"[-] Invalid login credentials!\n"+'\033[0m')
 			pass
 	except:
-		print('\033[1;31m'+"[!!] Invalid login credentials\n"+'\033[0m')
+		print('\033[1;31m'+"[-] Invalid login credentials\n"+'\033[0m')
